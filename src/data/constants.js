@@ -279,7 +279,7 @@ export const Bio = {
       img: universityLogo,
       school: "The University of Winnipeg, Winnipeg, Canada",
       date: "Sept 2022 - Dec 2026",
-      grade: "3.73 CGPA",
+      grade: "3.73 GPA",
       desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at The University of Winnipeg. I have completed 2 years and have a CGPA of 3.73. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "BSc Honours in Applied Computer Science",
     },
