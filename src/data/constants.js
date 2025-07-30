@@ -2,7 +2,6 @@ import cfeLogo from "../images/cfe_logo.webp";
 import company from "../images/company_logo.png";
 import schoolLogo from "../images/Gajera_Global_School.jpg";
 import analysis from "../images/graph.png";
-import resume from "../images/krisha_resume.pdf";
 import image from "../images/nav_system.png";
 import tictactoe from "../images/tictactoe.png";
 import todolist from "../images/todo.png";
@@ -20,8 +19,7 @@ export const Bio = {
     description:
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/krisha-kathrotiya",
-    resume:
-      resume,
+    resume: "https://drive.google.com/file/d/1a7C1tvhBYuajSgEmjoheiwlNqwyo2E_S/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/krisha-kathrotiya-49677b29a/",
     twitter: "https://x.com/KrishaK45912",
     insta: "https://www.instagram.com/krisha_kathrotiya/",
