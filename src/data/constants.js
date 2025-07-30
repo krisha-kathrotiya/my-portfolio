@@ -2,7 +2,7 @@ import cfeLogo from "../images/cfe_logo.webp";
 import company from "../images/company_logo.png";
 import schoolLogo from "../images/Gajera_Global_School.jpg";
 import analysis from "../images/graph.png";
-import resume from "../images/Krisha Kathrotiya's resume.pdf";
+import resume from "../images/krisha_resume.pdf";
 import image from "../images/nav_system.png";
 import tictactoe from "../images/tictactoe.png";
 import todolist from "../images/todo.png";
